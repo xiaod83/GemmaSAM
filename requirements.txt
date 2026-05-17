@@ -1,0 +1,8 @@
+torch == 2.8.0
+transformers == 4.57.2
+numpy<2.0.0
+opencv-python
+Pillow
+tqdm
+monai
+sam2
