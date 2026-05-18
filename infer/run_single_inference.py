@@ -130,7 +130,7 @@ def main():
     if final_mask is None:
         raise RuntimeError("Inference failed: no valid mask returned")
 
-    print(f"✅ Done. Inference record saved to: {record_path}")
+    print(f"Done. Inference record saved to: {record_path}")
 
 
 if __name__ == "__main__":
